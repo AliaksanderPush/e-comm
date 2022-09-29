@@ -137,6 +137,7 @@ export const SellingScreen = () => {
                         _hover={{
                           borderWidth: 1,
                           borderColor: colors.common,
+                          bg: colors.white,
                         }}
                         _pressed={{ bg: colors.opacity }}
                         bg={colors.white}
